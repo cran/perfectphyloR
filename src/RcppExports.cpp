@@ -7,7 +7,7 @@
 using namespace Rcpp;
 
 // RVcoeff
-arma::mat RVcoeff(arma::mat mDx, arma::mat mDy, arma::mat mC);
+double RVcoeff(arma::mat mDx, arma::mat mDy, arma::mat mC);
 RcppExport SEXP _perfectphyloR_RVcoeff(SEXP mDxSEXP, SEXP mDySEXP, SEXP mCSEXP) {
 BEGIN_RCPP
     Rcpp::RObject rcpp_result_gen;
@@ -20,7 +20,7 @@ BEGIN_RCPP
 END_RCPP
 }
 // dCor
-arma::mat dCor(arma::mat mDx, arma::mat mDy, arma::mat mC);
+double dCor(arma::mat mDx, arma::mat mDy, arma::mat mC);
 RcppExport SEXP _perfectphyloR_dCor(SEXP mDxSEXP, SEXP mDySEXP, SEXP mCSEXP) {
 BEGIN_RCPP
     Rcpp::RObject rcpp_result_gen;

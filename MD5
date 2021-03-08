@@ -1,4 +1,4 @@
-e3648f09d6e8eb892d777cdb5035df38 *DESCRIPTION
+34c04e75489e051973137af390785905 *DESCRIPTION
 bec989d218b86c4cb7fe763c6a31527a *NAMESPACE
 34456c365afb35ecde76fc2e5a80ada0 *R/HHG_test.R
 39861dc08d0e185ceb1c6e52c1620415 *R/RV_test.R
@@ -30,7 +30,7 @@ c40d3f3dd129f54088ac319eee90dcfe *R/testDendAssoRI.R
 81a9e55f973bb8d08d5d414bc155370f *R/vcf_to_hapMat.R
 9335fc2c3c3cbb91c0d201537a550c4c *R/vcf_to_hapMat_utility_function.R
 35c8cd5ee591fdbdfda5b46f1ab8ac99 *README.md
-fd4bd9ca2dda19bf2a4341e6eff3a299 *build/vignette.rds
+e257c0914ebdcd82d4c11eb218bab37c *build/vignette.rds
 c3cded853a2388ad53569a7105d1c1e3 *cleanup
 2026a6bbd3c047aa7ec927181789bd13 *configure
 a16ed8560190dcf01a4f95d49f4c4a43 *configure.ac
@@ -95,8 +95,8 @@ ab32261f3b038201f001746f9fd44079 *man/testAssoDist.Rd
 d086cf461ce35d7f38519d93a8451f7d *man/vcftohapMat.Rd
 0c1ff5062d76c383e6a08fc27b7eac15 *src/Makevars.in
 61059660eb073d93e00e8ee054237071 *src/Makevars.win
-d1fd8b12992ca0c66daad6df83396123 *src/RVcoeff.cpp
-8801cfd53b50411231e44e2fcbe8e34e *src/RcppExports.cpp
-afe55d428993773e6923959fdbf381da *src/dCorCoeff.cpp
+ffa68dfb61408f987db534b2548731e4 *src/RVcoeff.cpp
+33173ca242fbc3c491693c98702dceb9 *src/RcppExports.cpp
+e3be8a0101e1b375745862599f788634 *src/dCorCoeff.cpp
 8fa3871bed1fd89a30f31db6c5617757 *src/distMat.cpp
 8e415425c3db6da5567e96e62c7574e4 *vignettes/perfectphyloR.pdf.asis
